@@ -22,8 +22,8 @@ If you have pypy installed:
     
 The results for each scenario are saved to the *results/* folder.
 
-## Team
+## Team / Credits
 
-Credit goes to:
+Credits go to:
 
 Onur Ayan, Nemanja Deric, Jochen Guck, Murat Gürsu, Mu He, Christian Sieber, Amaury Van Bemten, Amir Varasteh, Mikhail Vilgelm, Petra Vizarreta Stojsavljevic, Samuele Zoppi
