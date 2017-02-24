@@ -1,0 +1,6 @@
+.idea/ 
+results/ 
+*.zip 
+__pycache__/ 
+.DS_Store
+.spyderproject
